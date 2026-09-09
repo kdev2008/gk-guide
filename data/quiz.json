@@ -1,49 +1,35 @@
 {
   "version": "3.0-direct-publisher",
-  "generatedAt": "2026-09-09T15:31:02.200Z",
-  "total": 3,
+  "generatedAt": "2026-09-09T15:33:56.356Z",
+  "total": 2,
   "items": [
     {
-      "question": "Which organisation prequalified a multi-dose respiratory syncytial virus (RSV) vaccine vial on 9 September 2026?",
+      "question": "Who was appointed as the WHO Director-General's Special Envoy for Health Resilience?",
       "options": [
-        "World Health Organization",
-        "NASA",
-        "UNICEF",
-        "World Bank"
+        "Dr Vanessa Kerry",
+        "Shri Suman Ray",
+        "Tedros Adhanom Ghebreyesus",
+        "Dr Margaret Chan"
       ],
       "answerIndex": 0,
-      "explanation": "The World Health Organization announced the prequalification.",
-      "category": "Global Health",
-      "sourceName": "WHO",
-      "sourceUrl": "https://www.who.int/news-room"
-    },
-    {
-      "question": "Who was appointed WHO Director-General's Special Envoy for Health Resilience?",
-      "options": [
-        "Dr Tedros Adhanom Ghebreyesus",
-        "Dr Vanessa Kerry",
-        "Dr Margaret Chan",
-        "Dr Soumya Swaminathan"
-      ],
-      "answerIndex": 1,
-      "explanation": "WHO announced the appointment of Dr Vanessa Kerry.",
+      "explanation": "The World Health Organization appointed Dr Vanessa Kerry to the role.",
       "category": "Appointments",
       "sourceName": "WHO",
       "sourceUrl": "https://www.who.int/news-room"
     },
     {
-      "question": "Which two space telescopes were named in NASA's report about far-out Solar System objects that “remember” the past?",
+      "question": "Which institution appointed Shri Suman Ray as Executive Director?",
       "options": [
-        "Hubble and James Webb",
-        "Kepler and Spitzer",
-        "Chandra and Fermi",
-        "Galileo and Herschel"
+        "World Health Organization",
+        "Reserve Bank of India",
+        "International Monetary Fund",
+        "Ministry of Finance"
       ],
-      "answerIndex": 0,
-      "explanation": "NASA's report named the Hubble Space Telescope and James Webb Space Telescope.",
-      "category": "Science & Tech",
-      "sourceName": "NASA",
-      "sourceUrl": "https://science.nasa.gov/missions/hubble/nasas-hubble-webb-find-far-out-solar-system-objects-remember-past/"
+      "answerIndex": 1,
+      "explanation": "The Reserve Bank of India announced Shri Suman Ray's appointment as Executive Director.",
+      "category": "Appointments",
+      "sourceName": "Reserve Bank of India",
+      "sourceUrl": "https://www.rbi.org.in/"
     }
   ]
 }
