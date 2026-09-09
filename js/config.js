@@ -21,7 +21,7 @@ window.GK_CONFIG = {
     'Sports':'assets/fallback/sports.jpg',
     'Awards & Honours':'assets/fallback/general.jpg',
     'Appointments':'assets/fallback/general.jpg',
-    'Defence':'assets/fallback/general.jpg',
+    'Defence':'assets/fallback/defence.jpg',
     'default':'assets/fallback/general.jpg'
   }
 };
