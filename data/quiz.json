@@ -1,6 +1,147 @@
 {
-  "version": "4.0-openai-web-search",
-  "generatedAt": "",
-  "total": 0,
-  "items": []
+  "version": "4.1-openai-web-search-fixed",
+  "generatedAt": "2026-09-09T15:58:40.355Z",
+  "total": 10,
+  "items": [
+    {
+      "question": "Where was the inaugural India-Morocco Joint Defence Committee meeting held?",
+      "options": [
+        "Mumbai",
+        "New Delhi",
+        "Rabat",
+        "Pune"
+      ],
+      "answerIndex": 1,
+      "explanation": "The first India-Morocco Joint Defence Committee meeting was held in New Delhi.",
+      "category": "Defence",
+      "sourceName": "Press Information Bureau",
+      "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2307946&lang=1&reg=3"
+    },
+    {
+      "question": "Exercise Veer Guardian 2026 is being conducted between India and which country?",
+      "options": [
+        "Australia",
+        "France",
+        "Japan",
+        "Morocco"
+      ],
+      "answerIndex": 2,
+      "explanation": "Veer Guardian 2026 is an air exercise between the Indian Air Force and Japan Air Self-Defense Force.",
+      "category": "Defence",
+      "sourceName": "Press Information Bureau",
+      "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2307890&lang=1&reg=48"
+    },
+    {
+      "question": "Who commenced an official visit to Australia and New Zealand to expand naval cooperation?",
+      "options": [
+        "Admiral Krishna Swaminathan",
+        "Air Chief Marshal A. P. Singh",
+        "General Upendra Dwivedi",
+        "Admiral R. Hari Kumar"
+      ],
+      "answerIndex": 0,
+      "explanation": "Chief of the Naval Staff Admiral Krishna Swaminathan began the official visit.",
+      "category": "Defence",
+      "sourceName": "Press Information Bureau",
+      "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2307917&lang=1&reg=3"
+    },
+    {
+      "question": "What is the primary focus of IAF Dronathon 2026?",
+      "options": [
+        "Naval submarines and sonar",
+        "UAS and counter-UAS technologies",
+        "Satellite launch vehicles",
+        "Armoured vehicle protection"
+      ],
+      "answerIndex": 1,
+      "explanation": "Dronathon 2026 will showcase unmanned aerial systems and counter-UAS technologies.",
+      "category": "Defence",
+      "sourceName": "Press Information Bureau",
+      "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2307811&lang=1&reg=3"
+    },
+    {
+      "question": "Which system did the Department of Telecommunications report had helped prevent over ₹5,000 crore in suspected cyber-fraud losses?",
+      "options": [
+        "Digital Intelligence Platform",
+        "Financial Fraud Risk Indicator",
+        "Unified Payments Interface",
+        "National Cyber Grid"
+      ],
+      "answerIndex": 1,
+      "explanation": "The Financial Fraud Risk Indicator was credited with helping prevent the suspected losses.",
+      "category": "Science & Tech",
+      "sourceName": "Press Information Bureau",
+      "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2307871&lang=2&reg=48&v=9"
+    },
+    {
+      "question": "Which two organisations convened an industry outreach workshop on deep-sea mining?",
+      "options": [
+        "MoES and NIOT",
+        "ISRO and DRDO",
+        "DST and CSIR",
+        "ONGC and IIT Bombay"
+      ],
+      "answerIndex": 0,
+      "explanation": "The Ministry of Earth Sciences and the National Institute of Ocean Technology organised the workshop.",
+      "category": "Science & Tech",
+      "sourceName": "Press Information Bureau",
+      "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2308036&lang=2&reg=48&v=9"
+    },
+    {
+      "question": "Which materials are combined in the bi-layered single-piece dental implant developed by ARCI?",
+      "options": [
+        "Titanium alloy and yttria-stabilized zirconia",
+        "Stainless steel and carbon fibre",
+        "Aluminium and graphene",
+        "Cobalt alloy and ceramic glass"
+      ],
+      "answerIndex": 0,
+      "explanation": "The implant combines titanium alloy with yttria-stabilized zirconia.",
+      "category": "Science & Tech",
+      "sourceName": "Press Information Bureau",
+      "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2307889&lang=2&reg=48"
+    },
+    {
+      "question": "Which animal is tracked by the AI system developed by ICAR-NRC on Mithun?",
+      "options": [
+        "Yak",
+        "Mithun",
+        "Elephant",
+        "Buffalo"
+      ],
+      "answerIndex": 1,
+      "explanation": "The computer-vision and AI system tracks the behaviour of Mithun, or Bos frontalis.",
+      "category": "Science & Tech",
+      "sourceName": "Press Information Bureau",
+      "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2307952&lang=2&reg=48"
+    },
+    {
+      "question": "What is the focus area of the ONGC-IIT Bombay-SINE energy innovation collaboration?",
+      "options": [
+        "AI-driven subsurface intelligence",
+        "Quantum computing for banking",
+        "Urban traffic management",
+        "Agricultural crop mapping"
+      ],
+      "answerIndex": 0,
+      "explanation": "The collaboration focuses on AI-driven subsurface intelligence.",
+      "category": "Economy",
+      "sourceName": "Press Information Bureau",
+      "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2307954&lang=2&reg=48"
+    },
+    {
+      "question": "How much Dedicated Freight Corridor length has India completed according to the reported milestone?",
+      "options": [
+        "Over 800 km",
+        "Over 1,500 km",
+        "Over 2,800 km",
+        "Over 5,000 km"
+      ],
+      "answerIndex": 2,
+      "explanation": "India has completed more than 2,800 km of Dedicated Freight Corridors.",
+      "category": "Economy",
+      "sourceName": "Press Information Bureau",
+      "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2307919&lang=1&reg=48"
+    }
+  ]
 }
