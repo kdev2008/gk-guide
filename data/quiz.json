@@ -1,6 +1,49 @@
 {
   "version": "3.0-direct-publisher",
-  "generatedAt": "",
-  "total": 0,
-  "items": []
+  "generatedAt": "2026-09-09T15:31:02.200Z",
+  "total": 3,
+  "items": [
+    {
+      "question": "Which organisation prequalified a multi-dose respiratory syncytial virus (RSV) vaccine vial on 9 September 2026?",
+      "options": [
+        "World Health Organization",
+        "NASA",
+        "UNICEF",
+        "World Bank"
+      ],
+      "answerIndex": 0,
+      "explanation": "The World Health Organization announced the prequalification.",
+      "category": "Global Health",
+      "sourceName": "WHO",
+      "sourceUrl": "https://www.who.int/news-room"
+    },
+    {
+      "question": "Who was appointed WHO Director-General's Special Envoy for Health Resilience?",
+      "options": [
+        "Dr Tedros Adhanom Ghebreyesus",
+        "Dr Vanessa Kerry",
+        "Dr Margaret Chan",
+        "Dr Soumya Swaminathan"
+      ],
+      "answerIndex": 1,
+      "explanation": "WHO announced the appointment of Dr Vanessa Kerry.",
+      "category": "Appointments",
+      "sourceName": "WHO",
+      "sourceUrl": "https://www.who.int/news-room"
+    },
+    {
+      "question": "Which two space telescopes were named in NASA's report about far-out Solar System objects that “remember” the past?",
+      "options": [
+        "Hubble and James Webb",
+        "Kepler and Spitzer",
+        "Chandra and Fermi",
+        "Galileo and Herschel"
+      ],
+      "answerIndex": 0,
+      "explanation": "NASA's report named the Hubble Space Telescope and James Webb Space Telescope.",
+      "category": "Science & Tech",
+      "sourceName": "NASA",
+      "sourceUrl": "https://science.nasa.gov/missions/hubble/nasas-hubble-webb-find-far-out-solar-system-objects-remember-past/"
+    }
+  ]
 }
