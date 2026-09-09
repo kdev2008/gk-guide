@@ -1,7 +1,300 @@
 {
-  "version": "4.0-openai-web-search",
-  "generatedAt": "",
-  "generatedDate": "",
-  "total": 0,
-  "items": []
+  "version": "4.1-openai-web-search-fixed",
+  "generatedAt": "2026-09-09T15:58:23.057Z",
+  "generatedDate": "2026-09-09",
+  "total": 11,
+  "items": [
+    {
+      "title": "India and Morocco hold inaugural Joint Defence Committee meeting",
+      "category": "Defence",
+      "subcategory": "International Defence Cooperation",
+      "publishedAt": "2026-09-08T18:25:00+05:30",
+      "summary": "India and Morocco held their first Joint Defence Committee meeting in New Delhi, covering training, peacekeeping, military exercises, military medicine, cyber defence and defence industry cooperation.",
+      "whyImportant": "It marks a new institutional mechanism for India-Morocco defence engagement ahead of 70 years of bilateral relations in 2027.",
+      "keyFacts": [
+        "Countries: India and Morocco",
+        "Venue: New Delhi",
+        "Cooperation areas: Cyber defence, exercises, co-production",
+        "MoU signed: September 2025"
+      ],
+      "image": "assets/fallback/general.jpg",
+      "sources": [
+        {
+          "name": "Press Information Bureau",
+          "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2307946&lang=1&reg=3"
+        }
+      ],
+      "confidence": 98,
+      "imageSource": "Category fallback",
+      "id": "india-and-morocco-hold-inaugural-joint-defence-committee-meeting-20260909",
+      "verified": true,
+      "generatedAt": "2026-09-09T15:58:19.606Z"
+    },
+    {
+      "title": "India-Japan air exercise Veer Guardian 2026 begins at Jodhpur",
+      "category": "Defence",
+      "subcategory": "Military Exercise",
+      "publishedAt": "2026-09-08T17:20:00+05:30",
+      "summary": "The Indian Air Force and Japan Air Self-Defense Force are conducting Exercise Veer Guardian 2026 at Air Force Station Jodhpur from September 9 to 22.",
+      "whyImportant": "The bilateral exercise is relevant to India-Japan strategic cooperation and tests interoperability in advanced air operations.",
+      "keyFacts": [
+        "Exercise: Veer Guardian 2026",
+        "Location: Jodhpur, Rajasthan",
+        "Dates: September 9-22, 2026",
+        "IAF aircraft: LCA Tejas, Su-30MKI and Rafale",
+        "JASDF aircraft: F-2A"
+      ],
+      "image": "assets/fallback/general.jpg",
+      "sources": [
+        {
+          "name": "Press Information Bureau",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2307890&lang=1&reg=48"
+        }
+      ],
+      "confidence": 98,
+      "imageSource": "Category fallback",
+      "id": "india-japan-air-exercise-veer-guardian-2026-begins-at-jodhpur-20260909",
+      "verified": true,
+      "generatedAt": "2026-09-09T15:58:19.924Z"
+    },
+    {
+      "title": "Indian Navy chief starts official Australia and New Zealand visit",
+      "category": "Defence",
+      "subcategory": "Maritime Cooperation",
+      "publishedAt": "2026-09-08T17:53:00+05:30",
+      "summary": "Chief of the Naval Staff Admiral Krishna Swaminathan commenced an official visit to Australia and New Zealand to review and expand naval cooperation.",
+      "whyImportant": "The engagement highlights India’s Indo-Pacific maritime diplomacy, including interoperability, information sharing and training links.",
+      "keyFacts": [
+        "Officer: Admiral Krishna Swaminathan",
+        "Countries: Australia and New Zealand",
+        "Focus: Maritime security and naval interoperability",
+        "Indian service: Indian Navy"
+      ],
+      "image": "assets/fallback/general.jpg",
+      "sources": [
+        {
+          "name": "Press Information Bureau",
+          "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2307917&lang=1&reg=3"
+        }
+      ],
+      "confidence": 97,
+      "imageSource": "Category fallback",
+      "id": "indian-navy-chief-starts-official-australia-and-new-zealand-visit-20260909",
+      "verified": true,
+      "generatedAt": "2026-09-09T15:58:20.145Z"
+    },
+    {
+      "title": "IAF announces Dronathon 2026 at Pokhran",
+      "category": "Defence",
+      "subcategory": "Defence Technology",
+      "publishedAt": "2026-09-08T15:12:00+05:30",
+      "summary": "The Indian Air Force announced Dronathon 2026, a platform for domestic firms to demonstrate unmanned aerial systems and counter-UAS technologies at Pokhran, Jaisalmer.",
+      "whyImportant": "It supports indigenous drone and counter-drone capability development, a major contemporary defence-technology priority.",
+      "keyFacts": [
+        "Event: IAF Dronathon 2026",
+        "Venue: Pokhran Range, Jaisalmer",
+        "Dates: September 14-16, 2026",
+        "Focus: UAS and counter-UAS",
+        "Themes: Swarms, autonomy and electronic warfare"
+      ],
+      "image": "assets/fallback/general.jpg",
+      "sources": [
+        {
+          "name": "Press Information Bureau",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2307811&lang=1&reg=3"
+        }
+      ],
+      "confidence": 97,
+      "imageSource": "Category fallback",
+      "id": "iaf-announces-dronathon-2026-at-pokhran-20260909",
+      "verified": true,
+      "generatedAt": "2026-09-09T15:58:20.624Z"
+    },
+    {
+      "title": "DoT says Financial Fraud Risk Indicator has prevented over ₹5,000 crore in suspected cyber-fraud losses",
+      "category": "Science & Tech",
+      "subcategory": "Digital Governance",
+      "publishedAt": "2026-09-08T16:39:00+05:30",
+      "summary": "The Department of Telecommunications reported that its Financial Fraud Risk Indicator has helped prevent suspected cyber-fraud transactions worth more than ₹5,000 crore since its May 2025 launch.",
+      "whyImportant": "The update is significant for questions on cyber-security governance, digital finance and the Digital Intelligence Platform.",
+      "keyFacts": [
+        "System: Financial Fraud Risk Indicator",
+        "Organisation: Department of Telecommunications",
+        "Launch date: May 22, 2025",
+        "Prevented value: Over ₹5,000 crore",
+        "Platform members: 1,600+ organisations"
+      ],
+      "image": "assets/fallback/science.jpg",
+      "sources": [
+        {
+          "name": "Press Information Bureau",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2307871&lang=2&reg=48&v=9"
+        }
+      ],
+      "confidence": 98,
+      "imageSource": "Category fallback",
+      "id": "dot-says-financial-fraud-risk-indicator-has-prevented-over-5-000-crore-in-suspected-cyber--20260909",
+      "verified": true,
+      "generatedAt": "2026-09-09T15:58:20.893Z"
+    },
+    {
+      "title": "MoES and NIOT convene deep-sea mining industry outreach workshop",
+      "category": "Science & Tech",
+      "subcategory": "Ocean Technology",
+      "publishedAt": "2026-09-08T20:37:00+05:30",
+      "summary": "The Ministry of Earth Sciences and National Institute of Ocean Technology held an industry outreach workshop on deep-sea mining and its role in securing critical minerals for India.",
+      "whyImportant": "Deep-sea mining is linked to India’s Blue Economy strategy and supply security for minerals used in clean energy, electronics and electric mobility.",
+      "keyFacts": [
+        "Organisations: MoES and NIOT",
+        "Theme: Deep-sea mining",
+        "Critical minerals: Nickel, cobalt, copper and manganese",
+        "Policy output: Proposed White Paper on Deep Sea Mining"
+      ],
+      "image": "assets/fallback/science.jpg",
+      "sources": [
+        {
+          "name": "Press Information Bureau",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2308036&lang=2&reg=48&v=9"
+        }
+      ],
+      "confidence": 96,
+      "imageSource": "Category fallback",
+      "id": "moes-and-niot-convene-deep-sea-mining-industry-outreach-workshop-20260909",
+      "verified": true,
+      "generatedAt": "2026-09-09T15:58:21.159Z"
+    },
+    {
+      "title": "ARCI develops bi-layered single-piece dental implant",
+      "category": "Science & Tech",
+      "subcategory": "Health Technology",
+      "publishedAt": "2026-09-08T17:20:00+05:30",
+      "summary": "Researchers at ARCI have developed a functionally integrated dental implant combining titanium alloy and yttria-stabilized zirconia to improve stability and reduce surgical complexity.",
+      "whyImportant": "The development is relevant to indigenous biomedical materials research and healthcare technology innovation.",
+      "keyFacts": [
+        "Institution: ARCI",
+        "Parent department: Department of Science and Technology",
+        "Materials: Ti6Al4V and yttria-stabilized zirconia",
+        "Application: Dental implants"
+      ],
+      "image": "assets/fallback/science.jpg",
+      "sources": [
+        {
+          "name": "Press Information Bureau",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2307889&lang=2&reg=48"
+        }
+      ],
+      "confidence": 95,
+      "imageSource": "Category fallback",
+      "id": "arci-develops-bi-layered-single-piece-dental-implant-20260909",
+      "verified": true,
+      "generatedAt": "2026-09-09T15:58:21.937Z"
+    },
+    {
+      "title": "ICAR-NRC on Mithun develops AI system for real-time animal behaviour tracking",
+      "category": "Science & Tech",
+      "subcategory": "Artificial Intelligence",
+      "publishedAt": "2026-09-08T18:36:00+05:30",
+      "summary": "ICAR-NRC on Mithun in Nagaland has developed a computer-vision and AI framework to automatically detect and track Mithun behaviour in a natural farm setting.",
+      "whyImportant": "It demonstrates the use of artificial intelligence in livestock health, welfare, breeding and farm management.",
+      "keyFacts": [
+        "Institution: ICAR-NRC on Mithun",
+        "Location: Nagaland",
+        "Species: Mithun (Bos frontalis)",
+        "Technology: AI and computer vision",
+        "Use cases: Health, welfare and breeding"
+      ],
+      "image": "assets/fallback/science.jpg",
+      "sources": [
+        {
+          "name": "Press Information Bureau",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2307952&lang=2&reg=48"
+        }
+      ],
+      "confidence": 96,
+      "imageSource": "Category fallback",
+      "id": "icar-nrc-on-mithun-develops-ai-system-for-real-time-animal-behaviour-tracking-20260909",
+      "verified": true,
+      "generatedAt": "2026-09-09T15:58:22.220Z"
+    },
+    {
+      "title": "ONGC, IIT Bombay and SINE sign energy-innovation collaboration MoU",
+      "category": "Economy",
+      "subcategory": "Energy Innovation",
+      "publishedAt": "2026-09-08T18:35:00+05:30",
+      "summary": "ONGC, the MC²+ Foundation, IIT Bombay and SINE IIT Bombay advanced an energy innovation collaboration through a tripartite MoU at the MC²+ Ignite Mumbai City Connect.",
+      "whyImportant": "The initiative connects a public-sector energy company, academia and startups to move energy technologies from research to pilots and commercial deployment.",
+      "keyFacts": [
+        "PSU: ONGC",
+        "Academic institution: IIT Bombay",
+        "Innovation partner: SINE IIT Bombay",
+        "Focus area: AI-driven subsurface intelligence",
+        "Programme: MC²+ Ignite"
+      ],
+      "image": "assets/fallback/economy.jpg",
+      "sources": [
+        {
+          "name": "Press Information Bureau",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2307954&lang=2&reg=48"
+        }
+      ],
+      "confidence": 95,
+      "imageSource": "Category fallback",
+      "id": "ongc-iit-bombay-and-sine-sign-energy-innovation-collaboration-mou-20260909",
+      "verified": true,
+      "generatedAt": "2026-09-09T15:58:22.485Z"
+    },
+    {
+      "title": "India completes over 2,800 km of Dedicated Freight Corridors",
+      "category": "Economy",
+      "subcategory": "Infrastructure",
+      "publishedAt": "2026-09-08T17:55:00+05:30",
+      "summary": "The Prime Minister announced completion of more than 2,800 km of Dedicated Freight Corridors, describing it as a milestone for logistics transformation under PM Gati Shakti.",
+      "whyImportant": "Dedicated Freight Corridors are a major transport-infrastructure and logistics-reform topic for competitive examinations.",
+      "keyFacts": [
+        "Project: Dedicated Freight Corridor",
+        "Completed length: Over 2,800 km",
+        "Policy linkage: PM Gati Shakti",
+        "Sector: Rail freight logistics"
+      ],
+      "image": "assets/fallback/economy.jpg",
+      "sources": [
+        {
+          "name": "Press Information Bureau",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2307919&lang=1&reg=48"
+        }
+      ],
+      "confidence": 94,
+      "imageSource": "Category fallback",
+      "id": "india-completes-over-2-800-km-of-dedicated-freight-corridors-20260909",
+      "verified": true,
+      "generatedAt": "2026-09-09T15:58:22.763Z"
+    },
+    {
+      "title": "WHO African Region opens 76th Regional Committee session",
+      "category": "World",
+      "subcategory": "Global Health",
+      "publishedAt": "2026-09-09T00:00:00+03:00",
+      "summary": "Health ministers from the WHO African Region opened the 76th session of the Regional Committee for Africa in Addis Ababa to deliberate on policies and priorities for the regional health agenda.",
+      "whyImportant": "WHO regional committees are key intergovernmental forums for setting health priorities and adopting regional public-health frameworks.",
+      "keyFacts": [
+        "Organisation: World Health Organization",
+        "Forum: Regional Committee for Africa",
+        "Session: 76th",
+        "Venue: Addis Ababa, Ethiopia",
+        "Member States: 47"
+      ],
+      "image": "https://www.afro.who.int/sites/default/files/styles/social_1200x630/public/Logo%20EN.jpg.jpeg?itok=CmhdyC8e",
+      "sources": [
+        {
+          "name": "World Health Organization Regional Office for Africa",
+          "url": "https://www.afro.who.int/news/news-releases?page=1"
+        }
+      ],
+      "confidence": 90,
+      "imageSource": "World Health Organization Regional Office for Africa",
+      "id": "who-african-region-opens-76th-regional-committee-session-20260909",
+      "verified": true,
+      "generatedAt": "2026-09-09T15:58:23.057Z"
+    }
+  ]
 }
