@@ -1,7 +1,93 @@
 {
   "version": "3.0-direct-publisher",
-  "generatedAt": "",
-  "generatedDate": "",
-  "total": 0,
-  "items": []
+  "generatedAt": "2026-09-09T15:30:51.721Z",
+  "generatedDate": "2026-09-09",
+  "total": 3,
+  "items": [
+    {
+      "title": "WHO prequalifies multi-dose RSV vaccine vial, paving the way to protecting more infants globally",
+      "category": "",
+      "subcategory": "",
+      "publishedAt": "2026-09-09",
+      "summary": "The World Health Organization listed a 9 September 2026 departmental update saying it had prequalified a multi-dose respiratory syncytial virus (RSV) vaccine vial.",
+      "whyImportant": "WHO said the prequalification is paving the way to protecting more infants globally.",
+      "keyFacts": [
+        "Organisation: World Health Organization",
+        "Development: A multi-dose RSV vaccine vial was prequalified",
+        "Date: 9 September 2026",
+        "WHO described the development as paving the way to protecting more infants globally"
+      ],
+      "image": "https://cdn.who.int/media/images/default-source/infographics/logo-who.tmb-1200v.jpg?sfvrsn=2fcc68a0_35",
+      "sources": [
+        {
+          "name": "WHO",
+          "url": "https://www.who.int/news-room"
+        }
+      ],
+      "verified": true,
+      "confidence": 95,
+      "verificationIssues": [
+        "The supplied evidence is a WHO newsroom listing rather than the full departmental update.",
+        "The candidate's explanation of procurement, country use, cost and supply constraints is not stated in the supplied evidence and has been removed."
+      ],
+      "id": "who-prequalifies-multi-dose-rsv-vaccine-vial-paving-the-way-to-protecting-more-infants-glo-20260909",
+      "generatedAt": "2026-09-09T15:30:50.906Z"
+    },
+    {
+      "title": "Dr Vanessa Kerry appointed to new role as WHO Director-General's Special Envoy for Health Resilience",
+      "category": "Appointments",
+      "subcategory": "Global health leadership",
+      "publishedAt": "2026-09-09",
+      "summary": "The World Health Organization announced that Dr Vanessa Kerry has been appointed as the WHO Director-General's Special Envoy for Health Resilience.",
+      "whyImportant": "WHO announced the creation of this new envoy role and the appointment of Dr Vanessa Kerry.",
+      "keyFacts": [
+        "Appointee: Dr Vanessa Kerry",
+        "Role: WHO Director-General's Special Envoy for Health Resilience",
+        "Announcing organisation: World Health Organization",
+        "Announcement date: 9 September 2026"
+      ],
+      "image": "https://cdn.who.int/media/images/default-source/infographics/logo-who.tmb-1200v.jpg?sfvrsn=2fcc68a0_35",
+      "sources": [
+        {
+          "name": "WHO",
+          "url": "https://www.who.int/news-room"
+        }
+      ],
+      "verified": true,
+      "confidence": 100,
+      "verificationIssues": [
+        "The supplied evidence supports the appointment and date, but does not support claims about outbreak preparedness, health-system shocks, global emergencies, or the role being a dedicated senior position."
+      ],
+      "id": "dr-vanessa-kerry-appointed-to-new-role-as-who-director-general-s-special-envoy-for-health--20260909",
+      "generatedAt": "2026-09-09T15:30:51.176Z"
+    },
+    {
+      "title": "NASA’s Hubble, Webb Find Far-out Solar System Objects ‘Remember’ Past",
+      "category": "Science & Tech",
+      "subcategory": "Astronomy",
+      "publishedAt": "2026-09-08T14:00:28.000Z",
+      "summary": "NASA reported that the Hubble Space Telescope and James Webb Space Telescope found far-out Solar System objects that “remember” the past.",
+      "whyImportant": "",
+      "keyFacts": [
+        "NASA’s Hubble Space Telescope and James Webb Space Telescope are named in the report.",
+        "The report concerns far-out Solar System objects.",
+        "NASA published the report on September 8, 2026."
+      ],
+      "image": "https://assets.science.nasa.gov/content/dam/science/missions/hubble/releases/2026/09/STScI-01KZC81GGE6DAJKS1C8KAXHZ2M.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "sources": [
+        {
+          "name": "NASA",
+          "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-webb-find-far-out-solar-system-objects-remember-past/"
+        }
+      ],
+      "verified": true,
+      "confidence": 95,
+      "verificationIssues": [
+        "The supplied evidence supports the NASA headline and publication date, but does not include the article body; claims about specific observations, physical characteristics, or Solar System formation and evolution are not supported by the provided text.",
+        "The candidate image URL is not supported by the supplied evidence and has been removed."
+      ],
+      "id": "nasa-s-hubble-webb-find-far-out-solar-system-objects-remember-past-20260909",
+      "generatedAt": "2026-09-09T15:30:51.457Z"
+    }
+  ]
 }
