@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="GK Guide — verified current affairs, general knowledge and daily quizzes">
+  <title>GK Guide — Learn Today. Stay Ahead.</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="topline shell">
+      <a class="brand" href="index.html"><span class="brand-icon">📖</span><span><b id="siteName">GK Guide</b><small id="siteTagline">Learn Today. Stay Ahead.</small></span></a>
+      <div class="searchbar"><input id="searchInput" type="search" placeholder="Search for any topic, person, exam, or current affair..."><button id="searchBtn" aria-label="Search">⌕</button></div>
+      <div class="header-actions">
+        <button class="round-btn" id="themeToggle" title="Theme">☀️</button>
+        <a class="header-link" href="#quiz">▣ <span>Daily Quiz</span></a>
+        <button class="header-link" id="askTop">▣ <span>Ask GK</span></button>
+        <a class="login-btn" id="adminLink" href="#">Admin</a>
+      </div>
+    </div>
+    <nav class="navline"><div class="shell nav-scroll" id="categoryNav"></div></nav>
+  </header>
+
+  <main>
+    <section class="shell hero-layout">
+      <article class="lead-card" id="heroStory"><div class="skeleton hero-skeleton"></div></article>
+      <div class="hero-stack" id="heroStack"></div>
+    </section>
+
+    <section class="shell trending-strip">
+      <b>⚡ Trending Topics:</b><div class="trend-chips" id="trendingTopics"></div>
+    </section>
+
+    <section class="shell main-layout">
+      <div class="main-feed">
+        <div class="section-head"><h2>Latest Updates</h2><button class="text-btn" id="viewAll">View All →</button></div>
+        <div class="filter-row" id="filterRow"></div>
+        <div class="update-grid" id="latestGrid"></div>
+
+        <div class="section-head browse-head"><h2>Browse by Category</h2></div>
+        <div class="browse-grid" id="categoryCards"></div>
+      </div>
+
+      <aside class="side-column">
+        <section class="side-card quiz-panel" id="quiz">
+          <div class="side-title"><span>🎯</span><h3>Daily Quiz</h3><small id="quizProgress">1 / 10</small></div>
+          <div id="quizArea"></div>
+        </section>
+        <section class="side-card ask-card">
+          <div class="side-title"><span>🤖</span><h3>Ask GK <small>(AI Assistant)</small></h3></div>
+          <textarea id="askInput" rows="3" placeholder="Ask any question... e.g. Who is the current RBI Governor?"></textarea>
+          <button class="primary-btn" id="askBtn">Ask</button>
+          <div class="ask-answer" id="askAnswer"></div>
+        </section>
+        <section class="side-card quote-card">
+          <div class="side-title"><span>❝</span><h3>Quote of the Day</h3></div>
+          <blockquote id="quoteText">“Knowledge becomes useful when it helps you understand the world better.”</blockquote>
+          <cite id="quoteAuthor">— GK Guide</cite>
+        </section>
+      </aside>
+    </section>
+
+    <section class="trustbar">
+      <div class="shell trust-items">
+        <span>✅ Verified Information</span><span>▣ Authentic Sources</span><span>◷ Updated Daily</span><span>🎓 For Competitive Exams</span>
+      </div>
+    </section>
+  </main>
+
+  <div class="modal-backdrop" id="modalBackdrop"></div>
+  <section class="ask-modal" id="askModal" aria-hidden="true">
+    <button class="modal-close" id="modalClose">×</button>
+    <h2>Ask GK</h2><p>Ask from the published knowledge base. The assistant can use your verified content first.</p>
+    <textarea id="modalAskInput" rows="4" placeholder="Ask a general knowledge question..."></textarea>
+    <button class="primary-btn wide" id="modalAskBtn">Ask GK</button>
+    <div class="ask-answer" id="modalAskAnswer"></div>
+  </section>
+
+  <footer class="footer"><div class="shell footer-row"><div><b id="footerName">GK Guide</b><span>Learn • Practice • Stay Informed • Grow</span></div><small>Source-backed, AI-assisted general knowledge.</small></div></footer>
+  <script src="js/config.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
